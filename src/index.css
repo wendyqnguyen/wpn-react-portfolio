@@ -1,0 +1,55 @@
+:root {
+    --primary: #8c54ff;
+    --secondary: #f3a847;
+    --tertiary: #b12704;
+    --light: #fafafa;
+    --dark: #000000;
+    --darker: #111111;
+    --error: rgb(228, 46, 1);
+    --spacing-one: calc(1rem * 0.5);
+    --spacing-two: calc(1rem);
+    --spacing-five: calc(2.5rem);
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #f1f0ea;
+    color: #534b52;
+  }
+  
+  .navbar {
+    color: #2d232e;
+  }
+  .myImage {
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 0 25px 65px rgb(0 0 0 / 10%);
+  }
+  
+  .icon {
+    width: 1.5em;
+  }
+  .heading {
+    font-size: 50px;
+    color: #2d232e;
+  }
+  
+  .project {
+    background-color: #474448 !important;
+    border-color: #474448 !important;
+    color: #f1f0ea;
+  }
+  
+  .card:hover {
+    background: #536b78;
+    color: #fff;
+    transform: scale(1.1);
+    z-index: 9;
+  }
+  
+  .card:hover::before {
+    background: rgb(85 108 214 / 10%);
+  }
