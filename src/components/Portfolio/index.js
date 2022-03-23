@@ -17,8 +17,8 @@ function Portfolio() {
       link: 'https://ellysecarter.github.io/nourish-me/index.html',
     },
     {
-      title: 'ConnectUs',
-      imageSrc: 'ConnectUs.png',
+      title: 'connectUs',
+      imageSrc: 'connectUs.png',
       github: 'https://github.com/asecord92/convectus',
       link: 'https://bit.ly/3JMI8DS',
     },
