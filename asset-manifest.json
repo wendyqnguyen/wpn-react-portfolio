@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wpn-react-portfolio/static/css/main.ccd09f43.css",
+    "main.js": "/wpn-react-portfolio/static/js/main.aab44751.js",
+    "static/js/787.137aa76a.chunk.js": "/wpn-react-portfolio/static/js/787.137aa76a.chunk.js",
+    "static/media/nourishMe 2.png": "/wpn-react-portfolio/static/media/nourishMe 2.6e952fcb9a372bbbff0a.png",
+    "static/media/nourishMe.png": "/wpn-react-portfolio/static/media/nourishMe.6e952fcb9a372bbbff0a.png",
+    "static/media/connectUs 2.png": "/wpn-react-portfolio/static/media/connectUs 2.de4b591ecc57ef71888e.png",
+    "static/media/connectUs.png": "/wpn-react-portfolio/static/media/connectUs.de4b591ecc57ef71888e.png",
+    "static/media/myimage.png": "/wpn-react-portfolio/static/media/myimage.11153523d6134e7a29ee.png",
+    "static/media/cache.png": "/wpn-react-portfolio/static/media/cache.08b136cb74bd33477923.png",
+    "static/media/github-brands.svg": "/wpn-react-portfolio/static/media/github-brands.e2f073269da5b56e82387b15c3b59f5a.svg",
+    "index.html": "/wpn-react-portfolio/index.html",
+    "main.ccd09f43.css.map": "/wpn-react-portfolio/static/css/main.ccd09f43.css.map",
+    "main.aab44751.js.map": "/wpn-react-portfolio/static/js/main.aab44751.js.map",
+    "787.137aa76a.chunk.js.map": "/wpn-react-portfolio/static/js/787.137aa76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd09f43.css",
+    "static/js/main.aab44751.js"
+  ]
+}
